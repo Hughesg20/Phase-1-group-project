@@ -1,35 +1,44 @@
 {
-    "restaurants": [
-      {
-        "id": 1,
-        "name": "Pizza Planet",
-        "likes": 0,
-        "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_1.jpg"
-      },
-      {
-        "id": 2,
-        "name": "Chicken Quasar",
-        "likes": 0,
-        "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_2.jpg"
-      },
-      {
-        "id": 3,
-        "name": "Dessert Galaxy",
-        "likes": 0,
-        "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_3.jpg"
-      },
-      {
-        "id": 4,
-        "name": "Noodle Heaven",
-        "likes": 0,
-        "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_4.jpg"
-      },
-      {
-        "id": 5,
-        "name": "Burger Town",
-        "likes": 0,
-        "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_5.jpg"
-      }    
-      
-    ]
-  }
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "Pizza Planet",
+      "rating": 5,
+      "image": "https://images.pexels.com/photos/1260968/pexels-photo-1260968.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "Description": "A great rustic pizza place",
+      "type": "italian"
+    },
+    {
+      "id": 2,
+      "name": "Chicken Quasar",
+      "rating": 3,
+      "image": "https://images.pexels.com/photos/1260968/pexels-photo-1260968.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "Description": "A great rustic pizza place",
+      "type": "Sandwiches"
+    },
+    {
+      "id": 3,
+      "name": "Dessert Galaxy",
+      "rating": 3,
+      "image": "https://images.pexels.com/photos/1260968/pexels-photo-1260968.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "Description": "A great rustic pizza place",
+      "type": "Dessert"
+    },
+    {
+      "id": 4,
+      "name": "Noodle Heaven",
+      "rating": 5,
+      "image": "https://images.pexels.com/photos/1260968/pexels-photo-1260968.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "Description": "A great rustic pizza place",
+      "type": "Thai"
+    },
+    {
+      "id": 5,
+      "name": "Burger Town",
+      "rating": 4,
+      "image": "https://images.pexels.com/photos/1260968/pexels-photo-1260968.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "Description": "A great rustic pizza place",
+      "type": "Sandwiches"
+    }
+  ]
+}
