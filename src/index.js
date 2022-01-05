@@ -17,5 +17,13 @@ function makeSpan(restObj){
 
   const restBar = document.getElementById('restaurant-bar')
   restBar.appendChild(restSpan)
-}
 
+  restSpan.addEventListener('click', () => {
+    document.getElementById('name').innerText = restObj.name
+    document.getElementById('description').innerText = restObj.Description
+    document.getElementById('type').innerText = restObj.type
+    document.getElementById('rating').innerText = restObj.rating
+  })
+
+
+}
