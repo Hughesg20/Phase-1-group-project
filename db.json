@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Pizza Planet",
       "rating": 5,
-      "image": "https://images.pexels.com/photos/1260968/pexels-photo-1260968.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "image": "https://i.ibb.co/Bz6sb68/pizza.jpg",
       "Description": "A great rustic pizza place",
       "type": "italian"
     },
@@ -12,33 +12,35 @@
       "id": 2,
       "name": "Chicken Quasar",
       "rating": 3,
-      "image": "https://images.pexels.com/photos/1260968/pexels-photo-1260968.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      "Description": "A great rustic pizza place",
+      "image": "https://i.ibb.co/KLWY5RS/chicken.jpg",
+      "Description": "revolutionary chicken sammies",
       "type": "Sandwiches"
     },
     {
       "id": 3,
       "name": "Dessert Galaxy",
       "rating": 3,
-      "image": "https://images.pexels.com/photos/1260968/pexels-photo-1260968.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      "Description": "A great rustic pizza place",
+      "image": "https://i.ibb.co/YWFQZY7/dessert.jpg",
+      "Description": "Awe inspiring desserts",
       "type": "Dessert"
     },
     {
       "id": 4,
       "name": "Noodle Heaven",
       "rating": 5,
-      "image": "https://images.pexels.com/photos/1260968/pexels-photo-1260968.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      "Description": "A great rustic pizza place",
+      "image": "https://i.ibb.co/ZGv07Jg/ramen.jpg",
+      "Description": "slurp slurpy yum yum noods",
       "type": "Thai"
     },
     {
       "id": 5,
       "name": "Burger Town",
       "rating": 4,
-      "image": "https://images.pexels.com/photos/1260968/pexels-photo-1260968.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      "Description": "A great rustic pizza place",
+      "image": "https://i.ibb.co/PmZ8BbC/burg.jpg",
+      "Description": "Its like flavor town but just burgs welcome to burg town its gangsta",
       "type": "Sandwiches"
     }
   ]
 }
+
+

@@ -1,6 +1,7 @@
 const BaseUrl = "http://localhost:3000/restaurants"
 
 loadRestaurants()
+insertComment()
 
 
 function loadRestaurants(){
@@ -23,7 +24,14 @@ function makeSpan(restObj){
     document.getElementById('description').innerText = restObj.Description
     document.getElementById('type').innerText = restObj.type
     document.getElementById('rating').innerText = restObj.rating
+    document.getElementById('comments').innerText = restObj.comments
+    document.getElementById('image').src = restObj.image
   })
+}
 
-
+function insertComment() {
+  const newComment = document.getElementById('comment')
+  newComment.addEventListener("submit", (event) => {
+    event.target[comment].value
+  })
 }
